@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="servletlearn">
+    <output-path>$PROJECT_DIR$/out/artifacts/servletlearn</output-path>
+    <root id="root" />
+  </artifact>
+</component>
